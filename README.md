@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">XR/AR/VR Developer</h3>
 
-- 📫 How to reach me: <a href="https://emreagca.vercel.app/" target="_blank" rel="noreferrer">[linktr.ee/emreagca](https://emreagca.vercel.app/)</a>
+- 📫 How to reach me: <a href="https://emreagca.vercel.app/" target="_blank" rel="noreferrer">https://emreagca.vercel.app/)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
