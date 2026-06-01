@@ -18,8 +18,6 @@ jobs:
           config_timezone: Europe/Istanbul
           config_display: large
           config_theme: dark
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_habits: yes
