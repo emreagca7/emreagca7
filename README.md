@@ -15,10 +15,13 @@ To build comprehensive systems, I integrate Python for image processing and AI a
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-### GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreagca7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- En Çok Kullanılan Diller (Farklı ve daha stabil bir sunucu) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emreagca7&theme=radical" alt="Top Languages" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreagca7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <!-- GitHub Aktivite ve Seri (Streak) İstatistikleri -->
+  <img src="https://streak-stats.demolab.com/?user=emreagca7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
