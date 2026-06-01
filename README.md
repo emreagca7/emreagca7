@@ -15,8 +15,8 @@ To build comprehensive systems, I integrate Python for image processing and AI a
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-###  GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Emre's GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/emreagca7/emreagca7/main/github-metrics.svg" alt="Emre's GitHub Metrics" width="100%" />
 </p>
