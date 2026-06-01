@@ -1,10 +1,10 @@
-# Merhaba, ben Emre Ağca 👋
+# Hi, I'm Emre Ağca 👋
 
-Dört yıllık Unity tecrübem kapsamında oyun geliştirme süreçlerinden kurumsal çözümlere kadar geniş bir yelpazede projeler yürüten bir bilgisayar mühendisi ve XR geliştiricisiyim. Son iki yıldır aktif olarak Sanal ve Artırılmış Gerçeklik (VR/AR) teknolojilerine odaklanıyor; sürdürülebilir kod mimarisi, model optimizasyonları ve kullanıcı deneyimi standartlarını merkeze alan sürükleyici deneyimler tasarlıyorum. 
+I am a Computer Engineer specializing in interactive technologies and cross-platform development. While my core focus is building immersive VR/AR applications using Unity, I also develop high-performance solutions for PC, Mobile, and WebGL.
 
-Unity ekosistemindeki çalışmalarım sadece XR ile sınırlı kalmayıp PC, mobil ve WebGL platformları için geliştirdiğim performans odaklı çözümleri de kapsıyor. Tüm bu interaktif sistemleri veri odaklı bir altyapıyla desteklemek amacıyla Python kullanarak görüntü işleme ve yapay zeka (AI) analizleri üzerine çalışıyor; aynı zamanda projelerimi daha bütüncül ve modern bir yapıda sunabilmek için Next.js, React ve arayüz tasarımı konularında kendimi geliştirmeye devam ediyorum.
+To build comprehensive systems, I integrate Python for image processing and AI analysis, while utilizing Next.js and React for modern web interfaces. Regardless of the platform, my priority is clean code architecture, optimized performance, and seamless user experiences.
 
-### 🛠️ Teknolojiler & Araçlar
+###  Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -15,11 +15,10 @@ Unity ekosistemindeki çalışmalarım sadece XR ile sınırlı kalmayıp PC, mo
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-### 📊 GitHub İstatistiklerim
-<!-- Bu kartlar projelerindeki güncellemeleri anlık olarak yansıtır -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreagca7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreagca7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
